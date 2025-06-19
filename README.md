@@ -16,7 +16,7 @@
 
 ### **2. 레이아웃 구현**
 
-- [ ]  시멘틱 태그를 활용한 HTML 기본 구조 작성 (header, main, section, footer 등)   
+- [x]  시멘틱 태그를 활용한 HTML 기본 구조 작성 (header, main, section, footer 등)   
 - [ ]  헤더 영역 마크업 및 스타일링   
 - [ ]  메인 콘텐츠 영역 레이아웃 구성   
 - [ ]  푸터 영역 마크업 및 스타일링   
