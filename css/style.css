@@ -19,7 +19,7 @@ header{
     width: 100vw;
     background-color: var(--bg-sand);
 
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
 }
@@ -61,8 +61,6 @@ main{
     height: auto;
 
     flex-direction: column;
-
-    margin-top: 122px;
 }
 
 .banner{
