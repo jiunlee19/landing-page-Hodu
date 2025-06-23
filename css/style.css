@@ -210,6 +210,10 @@ main{
     align-items: center;
 }
 
+.input-left {
+    display: flex; /* 중요: 이미지와 input을 가로로 배치 */
+    align-items: center;
+}
 .subscribe-box .email-icon{
     width: 1.5rem;
     height: 1.5rem;
@@ -218,7 +222,7 @@ main{
 .input-container input{
     font-size: 1rem;
     border: none;
-    min-width: 12rem;
+    width: 12rem;
 }
 .input-container button{
     flex:right;
@@ -259,6 +263,9 @@ main{
     height: 1.5rem;
 }
 .footer-wrap-right {
+    display: none;
+}
+.sidebar{
     display: none;
 }
 
@@ -445,8 +452,7 @@ main{
     }
 
     .sidebar{
-        /* display: block; */
-        display: none;
+
         background-color: var(--point-blue-color);
         padding: 0 3.125rem;
         height: 100vh;
