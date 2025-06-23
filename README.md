@@ -35,3 +35,7 @@
 
 - [x]  적절한 대체 텍스트(alt) 제공   
 - [x]  키보드 접근성 확인   
+
+### 8. 결과물
+![img](./result/desktop-result.png)
+![img](./result/mobile-result.png)
